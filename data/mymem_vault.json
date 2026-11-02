@@ -1,9 +1,46 @@
 {
   "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/vault.json",
   "vault_version": "1.0.0",
-  "last_synced_at": "2026-11-02T18:51:57.324190",
-  "total_items": 7,
+  "last_synced_at": "2026-11-02T19:31:36.287571",
+  "total_items": 8,
   "items": [
+    {
+      "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/post.json",
+      "id": "web_workmercorcom_jobs-list_AAABoXq9t0",
+      "shortcode": "workmercorcom_jobs-list_AAABoXq9t0",
+      "platform": "web",
+      "type": "link",
+      "media_type": "link",
+      "media_id": "workmercorcom_jobs-list_AAABoXq9t0",
+      "url": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral",
+      "canonical_url": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral",
+      "original_url": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral",
+      "author": "@Mercor",
+      "title": "Search Generalist - Mercor Jobs",
+      "caption": "We are looking for generalist experts, who are regularly use web search. What you'll do Do daily search queries, and rate the results. Complete a set of…",
+      "thumbnail_url": "https://work.mercor.com/og-image-white-bgnd.png",
+      "embed_url": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral",
+      "hashtags": [
+        "work.mercor.com"
+      ],
+      "tags": [
+        "work.mercor.com"
+      ],
+      "saved_at": "2026-11-02T19:31:34.054174",
+      "sync_metadata": {
+        "source": "MyMem Flutter App",
+        "app_version": "1.0.0",
+        "synced_at": "2026-11-02T19:31:36.287611"
+      },
+      "extra": {
+        "platform": "web",
+        "domain": "work.mercor.com",
+        "og_title": "Search Generalist - Mercor Jobs",
+        "og_desc": "We are looking for generalist experts, who are regularly use web search. What you'll do Do daily search queries, and rate the results. Complete a set of…",
+        "og_image": "https://work.mercor.com/og-image-white-bgnd.png",
+        "parsed_from": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral"
+      }
+    },
     {
       "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/post.json",
       "id": "yt_BtuLdsziCPE",
@@ -32,7 +69,7 @@
       "sync_metadata": {
         "source": "MyMem Flutter App",
         "app_version": "1.0.0",
-        "synced_at": "2026-11-02T18:51:57.324216"
+        "synced_at": "2026-11-02T19:31:36.287626"
       },
       "extra": {
         "video_id": "BtuLdsziCPE",
@@ -67,7 +104,7 @@
       "sync_metadata": {
         "source": "MyMem Flutter App",
         "app_version": "1.0.0",
-        "synced_at": "2026-11-02T18:51:57.324229"
+        "synced_at": "2026-11-02T19:31:36.287633"
       },
       "extra": {
         "platform": "web",
@@ -104,7 +141,7 @@
       "sync_metadata": {
         "source": "MyMem Flutter App",
         "app_version": "1.0.0",
-        "synced_at": "2026-11-02T18:51:57.324235"
+        "synced_at": "2026-11-02T19:31:36.287638"
       },
       "extra": {
         "platform": "web",
@@ -147,7 +184,7 @@
       "sync_metadata": {
         "source": "MyMem Flutter App",
         "app_version": "1.0.0",
-        "synced_at": "2026-11-02T18:51:57.324241"
+        "synced_at": "2026-11-02T19:31:36.287643"
       },
       "extra": {
         "creator_name": "",
@@ -194,7 +231,7 @@
       "sync_metadata": {
         "source": "MyMem Flutter App",
         "app_version": "1.0.0",
-        "synced_at": "2026-11-02T18:51:57.324247"
+        "synced_at": "2026-11-02T19:31:36.287649"
       },
       "extra": {
         "creator_name": "",
@@ -241,7 +278,7 @@
       "sync_metadata": {
         "source": "MyMem Flutter App",
         "app_version": "1.0.0",
-        "synced_at": "2026-11-02T18:51:57.324252"
+        "synced_at": "2026-11-02T19:31:36.287654"
       },
       "extra": {
         "creator_name": "",
@@ -288,7 +325,7 @@
       "sync_metadata": {
         "source": "MyMem Flutter App",
         "app_version": "1.0.0",
-        "synced_at": "2026-11-02T18:51:57.324257"
+        "synced_at": "2026-11-02T19:31:36.287659"
       },
       "extra": {
         "parsed_from": "https://www.instagram.com/reel/DeJIpRvqtsD/?dlrf=aHF4cmh0NGFvZzgx",
