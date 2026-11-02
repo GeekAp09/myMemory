@@ -1,0 +1,267 @@
+{
+  "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/vault.json",
+  "vault_version": "1.0.0",
+  "last_synced_at": "2026-11-02T18:48:18.652291",
+  "total_items": 6,
+  "items": [
+    {
+      "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/post.json",
+      "id": "web_shopamulcom_en-product-amul-high",
+      "shortcode": "shopamulcom_en-product-amul-high",
+      "platform": "web",
+      "type": "link",
+      "media_type": "link",
+      "media_id": "shopamulcom_en-product-amul-high",
+      "url": "https://shop.amul.com/en/product/amul-high-protein-cubes-190-g-or-pack-of-5",
+      "canonical_url": "https://shop.amul.com/en/product/amul-high-protein-cubes-190-g-or-pack-of-5",
+      "original_url": "https://shop.amul.com/en/product/amul-high-protein-cubes-190-g-or-pack-of-5",
+      "author": "@Amul",
+      "title": "Amul High Protein Cubes 190 g | Pack of 5",
+      "caption": "Introducing Amul High Protein Snack: A 38 g pack of cubes has 25 g or 65% protein with just 150 kcal. It uses only milk protein.",
+      "thumbnail_url": "https://shop.amul.com/s/62fa94df8c13af2e242eba16/6ae3994f5e349d9e79305537/01-hero-image_amul-high-protein-snack-190g-480x480.png",
+      "embed_url": "https://shop.amul.com/en/product/amul-high-protein-cubes-190-g-or-pack-of-5",
+      "hashtags": [
+        "shop.amul.com"
+      ],
+      "tags": [
+        "shop.amul.com"
+      ],
+      "saved_at": "2026-11-02T18:15:54.079951",
+      "sync_metadata": {
+        "source": "MyMem Flutter App",
+        "app_version": "1.0.0",
+        "synced_at": "2026-11-02T18:48:18.652327"
+      },
+      "extra": {
+        "platform": "web",
+        "domain": "shop.amul.com",
+        "og_title": "Amul High Protein Cubes 190 g | Pack of 5",
+        "og_desc": "Introducing Amul High Protein Snack: A 38 g pack of cubes has 25 g or 65% protein with just 150 kcal. It uses only milk protein.",
+        "og_image": "https://shop.amul.com/s/62fa94df8c13af2e242eba16/6ae3994f5e349d9e79305537/01-hero-image_amul-high-protein-snack-190g-480x480.png",
+        "parsed_from": "https://shop.amul.com/en/product/amul-high-protein-cubes-190-g-or-pack-of-5"
+      }
+    },
+    {
+      "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/post.json",
+      "id": "web_hyugalifeclickpostai_en",
+      "shortcode": "hyugalifeclickpostai_en",
+      "platform": "web",
+      "type": "link",
+      "media_type": "link",
+      "media_id": "hyugalifeclickpostai_en",
+      "url": "https://hyugalife.clickpost.ai/en?cp_id=9&waybill=SF4389605375HYU&security_key=4b87aea2-3c75-484e-9111-fde9e96fa812&source=sms&notification_event_id=2",
+      "canonical_url": "https://hyugalife.clickpost.ai/en?cp_id=9&waybill=SF4389605375HYU&security_key=4b87aea2-3c75-484e-9111-fde9e96fa812&source=sms&notification_event_id=2",
+      "original_url": "https://hyugalife.clickpost.ai/en?cp_id=9&waybill=SF4389605375HYU&security_key=4b87aea2-3c75-484e-9111-fde9e96fa812&source=sms&notification_event_id=2",
+      "author": "@hyugalife.clickpost.ai",
+      "title": "Custom Tracking page - Powered by Clickpost",
+      "caption": "Custom Tracking page - Powered by Clickpost",
+      "thumbnail_url": null,
+      "embed_url": "https://hyugalife.clickpost.ai/en?cp_id=9&waybill=SF4389605375HYU&security_key=4b87aea2-3c75-484e-9111-fde9e96fa812&source=sms&notification_event_id=2",
+      "hashtags": [
+        "hyugalife.clickpost.ai"
+      ],
+      "tags": [
+        "hyugalife.clickpost.ai"
+      ],
+      "saved_at": "2026-11-02T18:15:11.630200",
+      "sync_metadata": {
+        "source": "MyMem Flutter App",
+        "app_version": "1.0.0",
+        "synced_at": "2026-11-02T18:48:18.652340"
+      },
+      "extra": {
+        "platform": "web",
+        "domain": "hyugalife.clickpost.ai",
+        "og_title": "Custom Tracking page - Powered by Clickpost",
+        "og_desc": "Custom Tracking page - Powered by Clickpost",
+        "og_image": null,
+        "parsed_from": "https://hyugalife.clickpost.ai/en?cp_id=9&waybill=SF4389605375HYU&security_key=4b87aea2-3c75-484e-9111-fde9e96fa812&source=sms&notification_event_id=2"
+      }
+    },
+    {
+      "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/post.json",
+      "id": "DeSQ5YHpyC0",
+      "shortcode": "DeSQ5YHpyC0",
+      "platform": "instagram",
+      "type": "reel",
+      "media_type": "reel",
+      "media_id": "4004337330338341044",
+      "url": "https://www.instagram.com/reel/DeSQ5YHpyC0/",
+      "canonical_url": "https://www.instagram.com/reel/DeSQ5YHpyC0/",
+      "original_url": "https://www.instagram.com/reel/DeSQ5YHpyC0/?rpxt=MXBmaW03eDM1c2V2cA==",
+      "author": "@Preston",
+      "title": "7,412 likes, 126 comments - quickfinesse on October 9, 2026: \"Your PC can now make iPho...",
+      "caption": "7,412 likes, 126 comments - quickfinesse on October 9, 2026: \"Your PC can now make iPhone apps. xtool is a free, open source replacement for Xcode that builds, signs and installs iPhone apps from Windows (through WSL) or Linux, no Mac needed: github.com/xtool-org/xtool. Joshua Warren’s kit adds App Store upload and Flutter: github.com/joshuaswarren/omarchy-apple-dev. Setup happens in the terminal, and their step-by-step tutorial (about 30 minutes) walks you to your first app: xtool.sh/tutorials/xtool/first-app. Your password only goes to Apple and nothing is stored online, but the free sign-in uses Apple’s private sign-in, so use a spare Apple ID like xtool’s docs suggest. What app would you build first?\n\n#iosdev #opensource #coding #apple\".",
+      "thumbnail_url": "https://scontent.cdninstagram.com/v/t51.82787-15/841845276_18373276381241281_7025132943747814774_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=CtpXT9YRAQ8Q7kNvwHtcFWV&_nc_oc=Adpsk9UuvcU6_ARSsWDTDMzjj7s6uU-JqKTmh_kfUEeUotlbU5i_sof9F5v-69w1VeA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uoaYMgoTUUVdpcN3d_6hWA&_nc_ss=7fa02&oh=00_AQOwNrwnsUxgRdRVfMVWfIkGRzGcFUeOp4nqJKulr1_Z5A&oe=6ACF9EB8",
+      "embed_url": "https://www.instagram.com/p/DeSQ5YHpyC0/embed/captioned/",
+      "hashtags": [
+        "iosdev",
+        "opensource",
+        "coding",
+        "apple"
+      ],
+      "tags": [
+        "iosdev",
+        "opensource",
+        "coding",
+        "apple"
+      ],
+      "saved_at": "2026-10-10T12:26:59.129237",
+      "sync_metadata": {
+        "source": "MyMem Flutter App",
+        "app_version": "1.0.0",
+        "synced_at": "2026-11-02T18:48:18.652346"
+      },
+      "extra": {
+        "creator_name": "",
+        "parsed_from": "https://www.instagram.com/reel/DeSQ5YHpyC0/?rpxt=MXBmaW03eDM1c2V2cA==",
+        "shortcode": "DeSQ5YHpyC0",
+        "media_id": "4004337330338341044",
+        "has_fetched_og": true,
+        "og_title": "Preston on Instagram: \"Your PC can now make iPhone apps. xtool is a free, open source replacement for Xcode that builds, signs and installs iPhone apps from Windows (through WSL) or Linux, no Mac needed: github.com/xtool-org/xtool. Joshua Warren’s kit adds App Store upload and Flutter: github.com/joshuaswarren/omarchy-apple-dev. Setup happens in the terminal, and their step-by-step tutorial (about 30 minutes) walks you to your first app: xtool.sh/tutorials/xtool/first-app. Your password only goes to Apple and nothing is stored online, but the free sign-in uses Apple’s private sign-in, so use a spare Apple ID like xtool’s docs suggest. What app would you build first?\n\n#iosdev #opensource #coding #apple\"",
+        "og_desc": "7,412 likes, 126 comments - quickfinesse on October 9, 2026: \"Your PC can now make iPhone apps. xtool is a free, open source replacement for Xcode that builds, signs and installs iPhone apps from Windows (through WSL) or Linux, no Mac needed: github.com/xtool-org/xtool. Joshua Warren’s kit adds App Store upload and Flutter: github.com/joshuaswarren/omarchy-apple-dev. Setup happens in the terminal, and their step-by-step tutorial (about 30 minutes) walks you to your first app: xtool.sh/tutorials/xtool/first-app. Your password only goes to Apple and nothing is stored online, but the free sign-in uses Apple’s private sign-in, so use a spare Apple ID like xtool’s docs suggest. What app would you build first?\n\n#iosdev #opensource #coding #apple\". ",
+        "og_image": "https://scontent.cdninstagram.com/v/t51.82787-15/841845276_18373276381241281_7025132943747814774_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=CtpXT9YRAQ8Q7kNvwHtcFWV&_nc_oc=Adpsk9UuvcU6_ARSsWDTDMzjj7s6uU-JqKTmh_kfUEeUotlbU5i_sof9F5v-69w1VeA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uoaYMgoTUUVdpcN3d_6hWA&_nc_ss=7fa02&oh=00_AQOwNrwnsUxgRdRVfMVWfIkGRzGcFUeOp4nqJKulr1_Z5A&oe=6ACF9EB8"
+      }
+    },
+    {
+      "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/post.json",
+      "id": "DeRmTnSuWYE",
+      "shortcode": "DeRmTnSuWYE",
+      "platform": "instagram",
+      "type": "reel",
+      "media_type": "reel",
+      "media_id": "4004150017336632836",
+      "url": "https://www.instagram.com/reel/DeRmTnSuWYE/",
+      "canonical_url": "https://www.instagram.com/reel/DeRmTnSuWYE/",
+      "original_url": "https://www.instagram.com/reel/DeRmTnSuWYE/?dlrf=Y2I4M3V1NjNuN29u",
+      "author": "@Shubham G | Trading Coach",
+      "title": "5,162 likes, 268 comments - shubhamtradingcoach on October 9, 2026: \"Eicher Motor Stock...",
+      "caption": "5,162 likes, 268 comments - shubhamtradingcoach on October 9, 2026: \"Eicher Motor Stock Options Trade\nStock Options Trading Strategy with Small Capital\n.\n.\n.\n.\n.\n#shubhamtradingcoach #stockoptionstrading #niftytrading #intradaytrading #scalping\n.\n.\nThis is for Educational purposes only. Not financial advice. Trading involves financial risk.\".",
+      "thumbnail_url": "https://scontent.cdninstagram.com/v/t51.82787-15/838951241_18106611617259654_5156580099822384366_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-ksPQPwgjycQ7kNvwHzTdcS&_nc_oc=AdpzrmeNcYKbQ56uXjRIIZgmQOlDqF3UsQc4FOdQRNJbZfErXbahHPkGewBvSJ9O3hM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=wS3JheGjkRICNtFMMbwZiw&_nc_ss=7f60f&oh=00_AQNffPuEXa64q37CCnfkZlx6rFRlUyVXz-v7uQmLLE0tGQ&oe=6ACF2D9F",
+      "embed_url": "https://www.instagram.com/p/DeRmTnSuWYE/embed/captioned/",
+      "hashtags": [
+        "shubhamtradingcoach",
+        "stockoptionstrading",
+        "niftytrading",
+        "intradaytrading",
+        "scalping"
+      ],
+      "tags": [
+        "shubhamtradingcoach",
+        "stockoptionstrading",
+        "niftytrading",
+        "intradaytrading",
+        "scalping"
+      ],
+      "saved_at": "2026-10-10T02:01:11.321650",
+      "sync_metadata": {
+        "source": "MyMem Flutter App",
+        "app_version": "1.0.0",
+        "synced_at": "2026-11-02T18:48:18.652352"
+      },
+      "extra": {
+        "creator_name": "",
+        "parsed_from": "https://www.instagram.com/reel/DeRmTnSuWYE/?dlrf=Y2I4M3V1NjNuN29u",
+        "shortcode": "DeRmTnSuWYE",
+        "media_id": "4004150017336632836",
+        "has_fetched_og": true,
+        "og_title": "Shubham G | Trading Coach on Instagram: \"Eicher Motor Stock Options Trade\nStock Options Trading Strategy with Small Capital\n.\n.\n.\n.\n.\n#shubhamtradingcoach #stockoptionstrading #niftytrading #intradaytrading #scalping\n.\n.\nThis is for Educational purposes only. Not financial advice. Trading involves financial risk.\"",
+        "og_desc": "5,162 likes, 268 comments - shubhamtradingcoach on October 9, 2026: \"Eicher Motor Stock Options Trade\nStock Options Trading Strategy with Small Capital\n.\n.\n.\n.\n.\n#shubhamtradingcoach #stockoptionstrading #niftytrading #intradaytrading #scalping\n.\n.\nThis is for Educational purposes only. Not financial advice. Trading involves financial risk.\". ",
+        "og_image": "https://scontent.cdninstagram.com/v/t51.82787-15/838951241_18106611617259654_5156580099822384366_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-ksPQPwgjycQ7kNvwHzTdcS&_nc_oc=AdpzrmeNcYKbQ56uXjRIIZgmQOlDqF3UsQc4FOdQRNJbZfErXbahHPkGewBvSJ9O3hM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=wS3JheGjkRICNtFMMbwZiw&_nc_ss=7f60f&oh=00_AQNffPuEXa64q37CCnfkZlx6rFRlUyVXz-v7uQmLLE0tGQ&oe=6ACF2D9F"
+      }
+    },
+    {
+      "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/post.json",
+      "id": "DeJ4vp_y3yc",
+      "shortcode": "DeJ4vp_y3yc",
+      "platform": "instagram",
+      "type": "reel",
+      "media_type": "reel",
+      "media_id": "4001979309409139868",
+      "url": "https://www.instagram.com/reel/DeJ4vp_y3yc/",
+      "canonical_url": "https://www.instagram.com/reel/DeJ4vp_y3yc/",
+      "original_url": "https://www.instagram.com/reel/DeJ4vp_y3yc/?srtk=dTh2ZDJtYXc0MDQ=",
+      "author": "@jeelani shaik",
+      "title": "220 likes, 2,624 comments - jeelani0.01 on October 6, 2026: \"Tcs and Virtusa, both are ...",
+      "caption": "220 likes, 2,624 comments - jeelani0.01 on October 6, 2026: \"Tcs and Virtusa, both are hiring for freshers and experienced candidates experience 0to 2 years#freshershiring #engineeringjobs #itjobs #bangalorejobs #bangalorejobvacancy\".",
+      "thumbnail_url": "https://scontent.cdninstagram.com/v/t51.82787-15/836198160_17889383922621512_6767539548300647422_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=h1Ill2uDfk0Q7kNvwFzokFS&_nc_oc=AdrXgAVXcPaMaZiDcUEaai_aoMb0O9QEwJFqeQUYadO8bvS5NO9RUqZpkgBRTmK3G18&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UZP-UfwyWbbotOCK0JIiTw&_nc_ss=7fa02&oh=00_AQO7kbiTi92YKbHsV_4FZNzclg9yHsi35-heVj47B_R-TQ&oe=6ACDD55E",
+      "embed_url": "https://www.instagram.com/p/DeJ4vp_y3yc/embed/captioned/",
+      "hashtags": [
+        "freshershiring",
+        "engineeringjobs",
+        "itjobs",
+        "bangalorejobs",
+        "bangalorejobvacancy"
+      ],
+      "tags": [
+        "freshershiring",
+        "engineeringjobs",
+        "itjobs",
+        "bangalorejobs",
+        "bangalorejobvacancy"
+      ],
+      "saved_at": "2026-10-09T02:45:10.730679",
+      "sync_metadata": {
+        "source": "MyMem Flutter App",
+        "app_version": "1.0.0",
+        "synced_at": "2026-11-02T18:48:18.652357"
+      },
+      "extra": {
+        "creator_name": "",
+        "parsed_from": "https://www.instagram.com/reel/DeJ4vp_y3yc/?srtk=dTh2ZDJtYXc0MDQ=",
+        "shortcode": "DeJ4vp_y3yc",
+        "media_id": "4001979309409139868",
+        "has_fetched_og": true,
+        "og_title": "jeelani shaik on Instagram: \"Tcs and Virtusa, both are hiring for freshers and experienced candidates experience 0to 2 years#freshershiring #engineeringjobs #itjobs #bangalorejobs #bangalorejobvacancy\"",
+        "og_desc": "220 likes, 2,624 comments - jeelani0.01 on October 6, 2026: \"Tcs and Virtusa, both are hiring for freshers and experienced candidates experience 0to 2 years#freshershiring #engineeringjobs #itjobs #bangalorejobs #bangalorejobvacancy\". ",
+        "og_image": "https://scontent.cdninstagram.com/v/t51.82787-15/836198160_17889383922621512_6767539548300647422_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=h1Ill2uDfk0Q7kNvwFzokFS&_nc_oc=AdrXgAVXcPaMaZiDcUEaai_aoMb0O9QEwJFqeQUYadO8bvS5NO9RUqZpkgBRTmK3G18&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UZP-UfwyWbbotOCK0JIiTw&_nc_ss=7fa02&oh=00_AQO7kbiTi92YKbHsV_4FZNzclg9yHsi35-heVj47B_R-TQ&oe=6ACDD55E"
+      }
+    },
+    {
+      "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/post.json",
+      "id": "DeJIpRvqtsD",
+      "shortcode": "DeJIpRvqtsD",
+      "platform": "instagram",
+      "type": "reel",
+      "media_type": "reel",
+      "media_id": "4001767764819368707",
+      "url": "https://www.instagram.com/reel/DeJIpRvqtsD/",
+      "canonical_url": "https://www.instagram.com/reel/DeJIpRvqtsD/",
+      "original_url": "https://www.instagram.com/reel/DeJIpRvqtsD/?dlrf=aHF4cmh0NGFvZzgx",
+      "author": "@crackwitharsh",
+      "title": "🚨 VASSAR LABS JAVA HIREATHON 2026! ☕🔥",
+      "caption": "🚨 VASSAR LABS JAVA HIREATHON 2026! ☕🔥\n\nJava developers, this could be a great opportunity to kickstart your career! 👀\n\n🏢 Company: Vassar Labs\n💼 Opportunity: Java Engineer Hiring\n📍 Location: Hyderabad\n🎓 Eligibility: 2024–2026 graduates with strong Java projects\n🛠️ Skills: Java • SQL • NoSQL • Streaming • Linux • Infrastructure\n💰 Participation: FREE\n\n📝 Selection Process:\n1️⃣ 1-hour Online Test\n2️⃣ Shortlisting\n3️⃣ On-site Hackathon in Hyderabad\n4️⃣ 2 Technical Interview Rounds\n5️⃣ Job Offer 🚀\n\n📌 Save this reel for later\n🔁 Share it with a Java developer looking for an opportunity\n🚀 Follow @crackwitharsh for more career updates\n\n📢 This content is shared only to help job seekers discover relevant opportunities and apply at the right time. We are not affiliated with Vassar Labs and do not charge any fee for applications or referrals.\n\n#VassarLabs #JavaJobs #JavaDeveloper #Hiring #crackwitharsh\n\n⚠️ Disclaimer: Please verify all eligibility criteria, hiring details and selection process through the official Vassar Labs website before registering.\n\n⏳ Job Expiry Disclaimer: Hiring opportunities may close, be filled or change at any time without prior notice. Always verify the current status before applying.\".",
+      "thumbnail_url": "https://scontent.cdninstagram.com/v/t51.71878-15/836881996_1892097285504555_5132072539675542848_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=CRxvXqzRlHcQ7kNvwFwpljq&_nc_oc=Adr6__c2-eJ44_Kpt6pVHVlW0fR8PSzC9dQzCR38ub-3z3XZPLE6hPwIyVy2QqkVvhE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PV8JrXlkm59BJ__qZ42lWw&_nc_ss=7fa02&oh=00_AQO3cP12LhaR85XNYcbB6Fr5c5FNO8OwFtVI1tPccWPlWg&oe=6ACDD16F",
+      "embed_url": "https://www.instagram.com/p/DeJIpRvqtsD/embed/captioned/",
+      "hashtags": [
+        "VassarLabs",
+        "JavaJobs",
+        "JavaDeveloper",
+        "Hiring",
+        "crackwitharsh"
+      ],
+      "tags": [
+        "VassarLabs",
+        "JavaJobs",
+        "JavaDeveloper",
+        "Hiring",
+        "crackwitharsh"
+      ],
+      "saved_at": "2026-10-09T02:14:58.491445",
+      "sync_metadata": {
+        "source": "MyMem Flutter App",
+        "app_version": "1.0.0",
+        "synced_at": "2026-11-02T18:48:18.652362"
+      },
+      "extra": {
+        "parsed_from": "https://www.instagram.com/reel/DeJIpRvqtsD/?dlrf=aHF4cmh0NGFvZzgx",
+        "shortcode": "DeJIpRvqtsD",
+        "media_id": "4001767764819368707",
+        "has_fetched_og": true,
+        "og_title": "Arsh Bhatia on Instagram: \"🚨 VASSAR LABS JAVA HIREATHON 2026! ☕🔥\n\nJava developers, this could be a great opportunity to kickstart your career! 👀\n\n🏢 Company: Vassar Labs\n💼 Opportunity: Java Engineer Hiring\n📍 Location: Hyderabad\n🎓 Eligibility: 2024–2026 graduates with strong Java projects\n🛠️ Skills: Java • SQL • NoSQL • Streaming • Linux • Infrastructure\n💰 Participation: FREE\n\n📝 Selection Process:\n1️⃣ 1-hour Online Test\n2️⃣ Shortlisting\n3️⃣ On-site Hackathon in Hyderabad\n4️⃣ 2 Technical Interview Rounds\n5️⃣ Job Offer 🚀\n\n📌 Save this reel for later\n🔁 Share it with a Java developer looking for an opportunity\n🚀 Follow @crackwitharsh for more career updates\n\n📢 This content is shared only to help job seekers discover relevant opportunities and apply at the right time. We are not affiliated with Vassar Labs and do not charge any fee for applications or referrals.\n\n#VassarLabs #JavaJobs #JavaDeveloper #Hiring #crackwitharsh\n\n⚠️ Disclaimer: Please verify all eligibility criteria, hiring details and selection process through the official Vassar Labs website before registering.\n\n⏳ Job Expiry Disclaimer: Hiring opportunities may close, be filled or change at any time without prior notice. Always verify the current status before applying.\"",
+        "og_desc": "crackwitharsh on October 5, 2026: \"🚨 VASSAR LABS JAVA HIREATHON 2026! ☕🔥\n\nJava developers, this could be a great opportunity to kickstart your career! 👀\n\n🏢 Company: Vassar Labs\n💼 Opportunity: Java Engineer Hiring\n📍 Location: Hyderabad\n🎓 Eligibility: 2024–2026 graduates with strong Java projects\n🛠️ Skills: Java • SQL • NoSQL • Streaming • Linux • Infrastructure\n💰 Participation: FREE\n\n📝 Selection Process:\n1️⃣ 1-hour Online Test\n2️⃣ Shortlisting\n3️⃣ On-site Hackathon in Hyderabad\n4️⃣ 2 Technical Interview Rounds\n5️⃣ Job Offer 🚀\n\n📌 Save this reel for later\n🔁 Share it with a Java developer looking for an opportunity\n🚀 Follow @crackwitharsh for more career updates\n\n📢 This content is shared only to help job seekers discover relevant opportunities and apply at the right time. We are not affiliated with Vassar Labs and do not charge any fee for applications or referrals.\n\n#VassarLabs #JavaJobs #JavaDeveloper #Hiring #crackwitharsh\n\n⚠️ Disclaimer: Please verify all eligibility criteria, hiring details and selection process through the official Vassar Labs website before registering.\n\n⏳ Job Expiry Disclaimer: Hiring opportunities may close, be filled or change at any time without prior notice. Always verify the current status before applying.\". ",
+        "og_image": "https://scontent.cdninstagram.com/v/t51.71878-15/836881996_1892097285504555_5132072539675542848_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=CRxvXqzRlHcQ7kNvwFwpljq&_nc_oc=Adr6__c2-eJ44_Kpt6pVHVlW0fR8PSzC9dQzCR38ub-3z3XZPLE6hPwIyVy2QqkVvhE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PV8JrXlkm59BJ__qZ42lWw&_nc_ss=7fa02&oh=00_AQO3cP12LhaR85XNYcbB6Fr5c5FNO8OwFtVI1tPccWPlWg&oe=6ACDD16F"
+      }
+    }
+  ]
+}
