@@ -1,0 +1,37 @@
+{
+  "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/post.json",
+  "id": "yt_BtuLdsziCPE",
+  "shortcode": "BtuLdsziCPE",
+  "platform": "youtube",
+  "type": "video",
+  "media_type": "video",
+  "media_id": "BtuLdsziCPE",
+  "url": "https://www.youtube.com/watch?v=BtuLdsziCPE",
+  "canonical_url": "https://www.youtube.com/watch?v=BtuLdsziCPE",
+  "original_url": "https://youtube.com/watch?v=BtuLdsziCPE",
+  "author": "@PJ Explained",
+  "title": "Before You Watch Ramayana Part 1 Rise of a Legend",
+  "caption": "YouTube Video by PJ Explained",
+  "thumbnail_url": "https://i.ytimg.com/vi/BtuLdsziCPE/hqdefault.jpg",
+  "embed_url": "https://www.youtube.com/embed/BtuLdsziCPE",
+  "hashtags": [
+    "YouTube",
+    "Video"
+  ],
+  "tags": [
+    "YouTube",
+    "Video"
+  ],
+  "saved_at": "2026-11-02T18:51:54.412017",
+  "sync_metadata": {
+    "source": "MyMem Flutter App",
+    "app_version": "1.0.0",
+    "synced_at": "2026-11-02T18:51:55.023485"
+  },
+  "extra": {
+    "video_id": "BtuLdsziCPE",
+    "platform": "youtube",
+    "is_shorts": false,
+    "parsed_from": "https://youtube.com/watch?v=BtuLdsziCPE"
+  }
+}
