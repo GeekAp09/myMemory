@@ -1,0 +1,37 @@
+{
+  "$schema": "https://raw.githubusercontent.com/mymem/schema/v1/post.json",
+  "id": "web_workmercorcom_jobs-list_AAABoXq9t0",
+  "shortcode": "workmercorcom_jobs-list_AAABoXq9t0",
+  "platform": "web",
+  "type": "link",
+  "media_type": "link",
+  "media_id": "workmercorcom_jobs-list_AAABoXq9t0",
+  "url": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral",
+  "canonical_url": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral",
+  "original_url": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral",
+  "author": "@Mercor",
+  "title": "Search Generalist - Mercor Jobs",
+  "caption": "We are looking for generalist experts, who are regularly use web search. What you'll do Do daily search queries, and rate the results. Complete a set of…",
+  "thumbnail_url": "https://work.mercor.com/og-image-white-bgnd.png",
+  "embed_url": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral",
+  "hashtags": [
+    "work.mercor.com"
+  ],
+  "tags": [
+    "work.mercor.com"
+  ],
+  "saved_at": "2026-11-02T19:31:34.054174",
+  "sync_metadata": {
+    "source": "MyMem Flutter App",
+    "app_version": "1.0.0",
+    "synced_at": "2026-11-02T19:31:34.633901"
+  },
+  "extra": {
+    "platform": "web",
+    "domain": "work.mercor.com",
+    "og_title": "Search Generalist - Mercor Jobs",
+    "og_desc": "We are looking for generalist experts, who are regularly use web search. What you'll do Do daily search queries, and rate the results. Complete a set of…",
+    "og_image": "https://work.mercor.com/og-image-white-bgnd.png",
+    "parsed_from": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral"
+  }
+}
